@@ -1,3 +1,5 @@
+// Javascript ka engine browser k andar chupa rhta hai
+
 const accountId = 14456
 let accountEmail = "rishiparihar.parihar@gmail.com"
 var accountPassword  = "1234"
