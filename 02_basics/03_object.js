@@ -42,3 +42,4 @@ JsUser.greeting = function()
     }
 console.log(JsUser.greeting()); // result : undefined
 console.log(JsUser.greeting); // result : [Function (anonymous)] as a reference
+
