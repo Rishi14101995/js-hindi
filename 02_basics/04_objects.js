@@ -52,3 +52,4 @@ const course = {
 //Syntax:
 const {instructorName : name} = course
 console.log(name);
+
